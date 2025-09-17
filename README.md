@@ -1,5 +1,4 @@
 ## Hi there , eu sou Crislan👋
-👋 Olá
 
 🎓 Estudante de Linguagem de Python na na Fábrica de Programadores.
 💻 Interessado em programação, tecnologia e aprendizado contínuo
